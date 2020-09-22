@@ -78,7 +78,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
               onPressed: () {
                 Navigator.pushNamed(context, RegistrationScreen.route);
               },
-            )
+            ),
           ],
         ),
       ),
